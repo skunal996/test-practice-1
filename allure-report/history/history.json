@@ -1,0 +1,142 @@
+{
+  "bc86942724dd56ae3fc8825c5caa90db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c52d866779ea780",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/4c52d866779ea780",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001612900,
+        "stop" : 1691001612901,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4855afd3f260faef94345664d87dfb01" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac556b1a22704858",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/ac556b1a22704858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001586666,
+        "stop" : 1691001612885,
+        "duration" : 26219
+      }
+    } ]
+  },
+  "4c3d4dd4fa23cb92762fdbd93b1bdd87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25c6cbd04d466154",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/25c6cbd04d466154",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001586688,
+        "stop" : 1691001586689,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3fb24684c322882505fff4efeb647a6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d33b956a765a4f96",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/d33b956a765a4f96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001586671,
+        "stop" : 1691001586672,
+        "duration" : 1
+      }
+    } ]
+  },
+  "80b0e3e0035f781f6a80564fac33449d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8aa2cc59dc2469a",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/e8aa2cc59dc2469a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001586666,
+        "stop" : 1691001617167,
+        "duration" : 30501
+      }
+    } ]
+  },
+  "2b9599e7dca567e44e301f2041e79edd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a8f858b7b6acb7b",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/1a8f858b7b6acb7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001605597,
+        "stop" : 1691001605597,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9c32fe1c75586c1c1cfc521ac0c2a06e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28b78135f7f4a57c",
+      "reportUrl" : "http://localhost:8081/job/Practice-Project-1/1/allure/#testresult/28b78135f7f4a57c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691001586666,
+        "stop" : 1691001605583,
+        "duration" : 18917
+      }
+    } ]
+  }
+}

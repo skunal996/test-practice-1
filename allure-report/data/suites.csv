@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 03 00:09:46 IST 2023","Thu Aug 03 00:10:12 IST 2023","26219","","test_practice1","Test_Practice_01","","","test_Login_phptravels",""
+"passed","Thu Aug 03 00:09:46 IST 2023","Thu Aug 03 00:09:46 IST 2023","1","","test_practice3","Test_Arithmatic_03","","","test_subtraction",""
+"passed","Thu Aug 03 00:09:46 IST 2023","Thu Aug 03 00:09:46 IST 2023","1","","test_practice1","Test_Practice_01","","","test_summation",""
+"passed","Thu Aug 03 00:10:12 IST 2023","Thu Aug 03 00:10:12 IST 2023","1","","test_practice3","Test_Arithmatic_03","","","test_multiplication",""
+"passed","Thu Aug 03 00:09:46 IST 2023","Thu Aug 03 00:10:05 IST 2023","18917","","test_practice2","Test_CredKart_02","","","test_Credkart_login",""
+"passed","Thu Aug 03 00:10:05 IST 2023","Thu Aug 03 00:10:05 IST 2023","0","","test_practice3","Test_Arithmatic_03","","","test_division",""
+"passed","Thu Aug 03 00:09:46 IST 2023","Thu Aug 03 00:10:17 IST 2023","30501","","test_practice2","Test_CredKart_02","","","test_Crekart_checkout",""

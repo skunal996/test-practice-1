@@ -1,0 +1,109 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-NIATUPE5",
+    "children" : [ {
+      "name" : "6008-MainThread",
+      "children" : [ {
+        "name" : "test_Login_phptravels",
+        "uid" : "ac556b1a22704858",
+        "parentUid" : "2cb0fa47b39ef5d3f7cf68a072614893",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001612885,
+          "duration" : 26219
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_multiplication",
+        "uid" : "4c52d866779ea780",
+        "parentUid" : "2cb0fa47b39ef5d3f7cf68a072614893",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001612900,
+          "stop" : 1691001612901,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cb0fa47b39ef5d3f7cf68a072614893"
+    }, {
+      "name" : "2500-MainThread",
+      "children" : [ {
+        "name" : "test_subtraction",
+        "uid" : "25c6cbd04d466154",
+        "parentUid" : "3027f98bbb6658a58dde07ca9a02ecae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586688,
+          "stop" : 1691001586689,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_summation",
+        "uid" : "d33b956a765a4f96",
+        "parentUid" : "3027f98bbb6658a58dde07ca9a02ecae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586671,
+          "stop" : 1691001586672,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3027f98bbb6658a58dde07ca9a02ecae"
+    }, {
+      "name" : "15476-MainThread",
+      "children" : [ {
+        "name" : "test_Credkart_login",
+        "uid" : "28b78135f7f4a57c",
+        "parentUid" : "e11ed9afeff8f78b313efdd0cfcb12f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001605583,
+          "duration" : 18917
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_division",
+        "uid" : "1a8f858b7b6acb7b",
+        "parentUid" : "e11ed9afeff8f78b313efdd0cfcb12f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001605597,
+          "stop" : 1691001605597,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e11ed9afeff8f78b313efdd0cfcb12f1"
+    }, {
+      "name" : "16788-MainThread",
+      "children" : [ {
+        "name" : "test_Crekart_checkout",
+        "uid" : "e8aa2cc59dc2469a",
+        "parentUid" : "c85c472f1078dfb5c70b837880ea2ce4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001617167,
+          "duration" : 30501
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c85c472f1078dfb5c70b837880ea2ce4"
+    } ],
+    "uid" : "aafb5aa9e4bee6f8b02581acf780f3ee"
+  } ]
+}

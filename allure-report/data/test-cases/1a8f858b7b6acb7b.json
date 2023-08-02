@@ -1,0 +1,68 @@
+{
+  "uid" : "1a8f858b7b6acb7b",
+  "name" : "test_division",
+  "fullName" : "test_practice3.Test_Arithmatic_03#test_division",
+  "historyId" : "2b9599e7dca567e44e301f2041e79edd",
+  "time" : {
+    "start" : 1691001605597,
+    "stop" : 1691001605597,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "20557f5d3199178f",
+      "name" : "stdout",
+      "source" : "20557f5d3199178f.txt",
+      "type" : "text/plain",
+      "size" : 28
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_practice3"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Arithmatic_03"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NIATUPE5"
+  }, {
+    "name" : "thread",
+    "value" : "15476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_practice3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a8f858b7b6acb7b.json",
+  "parameterValues" : [ ]
+}

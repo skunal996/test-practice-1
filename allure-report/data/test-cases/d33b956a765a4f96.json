@@ -1,0 +1,68 @@
+{
+  "uid" : "d33b956a765a4f96",
+  "name" : "test_summation",
+  "fullName" : "test_practice1.Test_Practice_01#test_summation",
+  "historyId" : "3fb24684c322882505fff4efeb647a6b",
+  "time" : {
+    "start" : 1691001586671,
+    "stop" : 1691001586672,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40af2d29bf31fe4c",
+      "name" : "stdout",
+      "source" : "40af2d29bf31fe4c.txt",
+      "type" : "text/plain",
+      "size" : 22
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_practice1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Practice_01"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NIATUPE5"
+  }, {
+    "name" : "thread",
+    "value" : "2500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_practice1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d33b956a765a4f96.json",
+  "parameterValues" : [ ]
+}

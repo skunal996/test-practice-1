@@ -1,0 +1,113 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_practice1",
+    "children" : [ {
+      "name" : "Test_Practice_01",
+      "children" : [ {
+        "name" : "test_Login_phptravels",
+        "uid" : "ac556b1a22704858",
+        "parentUid" : "a6b2b2e0ec374f5296d3ed2604d3a131",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001612885,
+          "duration" : 26219
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_summation",
+        "uid" : "d33b956a765a4f96",
+        "parentUid" : "a6b2b2e0ec374f5296d3ed2604d3a131",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586671,
+          "stop" : 1691001586672,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6b2b2e0ec374f5296d3ed2604d3a131"
+    } ],
+    "uid" : "2edb884042caf666efd4773dbca2acca"
+  }, {
+    "name" : "test_practice2",
+    "children" : [ {
+      "name" : "Test_CredKart_02",
+      "children" : [ {
+        "name" : "test_Credkart_login",
+        "uid" : "28b78135f7f4a57c",
+        "parentUid" : "2cb4e3af6aa7cffb286c3f4f5a6863d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001605583,
+          "duration" : 18917
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_Crekart_checkout",
+        "uid" : "e8aa2cc59dc2469a",
+        "parentUid" : "2cb4e3af6aa7cffb286c3f4f5a6863d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586666,
+          "stop" : 1691001617167,
+          "duration" : 30501
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cb4e3af6aa7cffb286c3f4f5a6863d3"
+    } ],
+    "uid" : "f5311c4269dba96933e1ce51b3f86696"
+  }, {
+    "name" : "test_practice3",
+    "children" : [ {
+      "name" : "Test_Arithmatic_03",
+      "children" : [ {
+        "name" : "test_subtraction",
+        "uid" : "25c6cbd04d466154",
+        "parentUid" : "a859aa270aa5048fb743396c23c325a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001586688,
+          "stop" : 1691001586689,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_division",
+        "uid" : "1a8f858b7b6acb7b",
+        "parentUid" : "a859aa270aa5048fb743396c23c325a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001605597,
+          "stop" : 1691001605597,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_multiplication",
+        "uid" : "4c52d866779ea780",
+        "parentUid" : "a859aa270aa5048fb743396c23c325a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691001612900,
+          "stop" : 1691001612901,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a859aa270aa5048fb743396c23c325a3"
+    } ],
+    "uid" : "798bccbe0ea0987e7f3dff72afd3eb10"
+  } ]
+}

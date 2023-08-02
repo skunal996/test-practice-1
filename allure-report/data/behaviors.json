@@ -1,0 +1,89 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_Login_phptravels",
+    "uid" : "ac556b1a22704858",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001586666,
+      "stop" : 1691001612885,
+      "duration" : 26219
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_Credkart_login",
+    "uid" : "28b78135f7f4a57c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001586666,
+      "stop" : 1691001605583,
+      "duration" : 18917
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_Crekart_checkout",
+    "uid" : "e8aa2cc59dc2469a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001586666,
+      "stop" : 1691001617167,
+      "duration" : 30501
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_summation",
+    "uid" : "d33b956a765a4f96",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001586671,
+      "stop" : 1691001586672,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_subtraction",
+    "uid" : "25c6cbd04d466154",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001586688,
+      "stop" : 1691001586689,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_division",
+    "uid" : "1a8f858b7b6acb7b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001605597,
+      "stop" : 1691001605597,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_multiplication",
+    "uid" : "4c52d866779ea780",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1691001612900,
+      "stop" : 1691001612901,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
